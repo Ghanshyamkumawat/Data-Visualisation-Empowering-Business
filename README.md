@@ -69,7 +69,7 @@ The dashboard enables stakeholders to:
 - Make informed strategic decisions.
 
 ## Author
-Krishna Kumar
+Ghanshyam kumawat
 
 ## License
 This project is created for educational and portfolio purposes.
